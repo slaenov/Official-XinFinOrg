@@ -64,6 +64,7 @@
                     <img src="assets/images/inside-page/masternode/bridge-stripe-company-light.svg" />
                     <img src="assets/images/inside-page/masternode/hextrust-light.svg" />
                     <img src="assets/images/inside-page/masternode/linkpool-light.svg" />
+                    <img src="assets/images/inside-page/masternode/clearstreet-light.svg" />
                 </div>
                 <div class="logo_items">
                     <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" />
@@ -91,6 +92,7 @@
                     <img src="assets/images/inside-page/masternode/bridge-stripe-company-light.svg" />
                     <img src="assets/images/inside-page/masternode/hextrust-light.svg" />
                     <img src="assets/images/inside-page/masternode/linkpool-light.svg" />
+                    <img src="assets/images/inside-page/masternode/clearstreet-light.svg" />
                 </div>
             </div>
 
@@ -121,6 +123,7 @@
                     <img src="assets/images/inside-page/masternode/bridge-stripe-company.svg" />
                     <img src="assets/images/inside-page/masternode/hextrust.svg" />
                     <img src="assets/images/inside-page/masternode/linkpool.svg" />
+                    <img src="assets/images/inside-page/masternode/clearstreet.svg" />
                 </div>
                 <div class="logo_items">
                     <img src="assets/images/inside-page/masternode/sbivcjapan.svg" />
@@ -148,6 +151,7 @@
                     <img src="assets/images/inside-page/masternode/bridge-stripe-company.svg" />
                     <img src="assets/images/inside-page/masternode/hextrust.svg" />
                     <img src="assets/images/inside-page/masternode/linkpool.svg" />
+                    <img src="assets/images/inside-page/masternode/clearstreet.svg" />
                 </div>
             </div>
         </div>
